@@ -10,6 +10,7 @@ body{
     justify-content: center;
     height: 100vh;
     overflow: hidden ;
+    background-color: rgb(15, 14, 32);
 }
 
 .container{
@@ -42,7 +43,6 @@ body{
 .panel.active
 {
     flex: 5;
-    border-radius: 150px;
 }
 
 .panel.active h3{
